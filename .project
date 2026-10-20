@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
+	<name>GestionCatalogueLivre</name>
+=======
 	<name>BankAccount</name>
+>>>>>>> cffb09d25c7111464da90539e7306876bdfb7f42
 	<comment></comment>
 	<projects>
 	</projects>
